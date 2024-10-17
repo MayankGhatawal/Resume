@@ -24,10 +24,12 @@ I'm a **Full Stack Developer** with expertise in **React.js**, **Next.js**, **Ex
 ### **Backend**
 - Express.js
 - RESTful APIs
+- Socket.io
 
 ### **Databases**
 - MongoDB
 - MySQL
+- PostgreSQL
 
 ### **Cloud & Tools**
 - AWS (Amazon Web Services)
@@ -40,6 +42,7 @@ I'm a **Full Stack Developer** with expertise in **React.js**, **Next.js**, **Ex
 ### **Programming Languages**
 - JavaScript
 - Python
+- Java
 
 ---
 
