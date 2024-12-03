@@ -1,84 +1,71 @@
-# 👨‍💻 Mayank Ghatawal
+# Resume - Mayank Ghatawal
 
-**Location**: Rajasthan, India  
-**Phone**: +91 8690512211  
-**Email**: [mayank1ghatawal@gmail.com](mailto:mayank1ghatawal@gmail.com)  
-**GitHub**: [MayankGhatawal](https://github.com/MayankGhatawal)  
-**LinkedIn**: [Mayank Ghatawal](https://www.linkedin.com/in/mayank-ghatawal/)
+Welcome to my resume repository! Here, you'll find a comprehensive overview of my technical skills, professional experience, and projects. Feel free to explore and connect with me through the links provided.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with expertise in **React.js**, **Next.js**, **Express.js**, and database management using **MongoDB** and **MySQL**. I enjoy building interactive UIs and robust RESTful APIs, and I have a strong foundation in **machine learning**. I'm skilled in both **JavaScript** and **Python**, allowing me to handle both frontend and backend development with ease.
-
----
-
-## 🛠️ Skills
-
-### **Frontend**
-- React.js
-- Next.js
-- TailwindCSS
-
-### **Backend**
-- Express.js
-- RESTful APIs
-- Socket.io
-
-### **Databases**
-- MongoDB
-- MySQL
-- PostgreSQL
-
-### **Cloud & Tools**
-- AWS (Amazon Web Services)
-- Visual Studio Code
-- Figma
-- Adobe Premiere Pro
-- Pycharm Community
-- Android Studio
-
-### **Programming Languages**
-- JavaScript
-- Python
-- Java
+I am a **Full Stack Software Developer** specializing in front-end and back-end development. With a strong foundation in computer science and hands-on experience in leading cross-functional teams, I am committed to delivering scalable and user-centric solutions.
 
 ---
 
-## 💼 Projects
+## 🛠️ Technical Skills
 
-### 1. **Remote Code Execution System (Jan 2024)**
-Developed a Remote Code Execution system for **LeetCode**, enabling secure, multi-language code submission, execution, and providing instant feedback for coding practice.
+- **Languages**: JavaScript, TypeScript, Python, Java, SQL, C, C++, HTML, CSS
+- **Frameworks & Libraries**: React.js, Next.js, Node.js, Express.js, Django, Tailwind CSS, Shadcn UI, Bootstrap
+- **Databases**: MongoDB, PostgreSQL
+- **Tools & Platforms**: Git, GitHub, VS Code, Postman, Figma, JIRA, Jest
+- **Core Concepts**: Data Structures & Algorithms, OOP, Operating Systems, DBMS
 
-### 2. **Face Recognition Attendance System (March 2024)**
-Built an automated **face recognition system** for attendance tracking and verification. Integrated it with **Streamlit** for real-time image processing and API-based data exchange.
+---
 
-### 3. **SnapGram (Social-Media Web/App, Sept 2023)**
-Created **Snapgram**, a social media platform using the **MERN stack** with real-time interaction features. The app was designed with **responsive** layouts using **TailwindCSS** for enhanced user experience.
+## 💼 Experience
+
+### **Software Engineer Intern**  
+**Bluestock Finetech (Remote)**  
+*October 2024 – Present*
+
+- **Team Leadership**: Led the development of a production-level IPO Web App with REST API integration.
+- **Feature Development**: Added IPO details such as price bands, dates, and PDFs for Bluestock and client platforms.
+- **Technical Expertise**: Built using Django REST Framework, PostgreSQL, and Bootstrap 5 with secure coding practices.
+
+---
+
+## 📂 Projects
+
+### **The Book World**  
+**Tech Stack**: React.js, Express.js, MongoDB, Tailwind CSS, Shadcn UI  
+[GitHub Repository](https://github.com/MayankGhatawal/Book-World) | [Live Demo](https://book-world-complete.vercel.app/)
+
+- Developed a MERN stack application for browsing, reviewing, and managing books.
+- Implemented advanced features like nested commenting and role-based access.
+- Built with JWT authentication and secure password storage using Bcrypt.
+
+### **Snapgram**  
+**Tech Stack**: Next.js, TypeScript, Appwrite, Tailwind CSS, Shadcn UI  
+[GitHub Repository](https://github.com/MayankGhatawal/Social-Media-App-Web) | [Live Demo](https://social-media-app-web.vercel.app/)
+
+- Created a social media platform enabling user interactions such as posting photos, commenting, and liking.
+- Integrated real-time notifications and secure user authentication with JWT.
+- Designed with a responsive UI and scalable architecture.
 
 ---
 
 ## 🎓 Education
 
-### **Bachelor of Technology (B.Tech.) in Computer Science**  
-*Bikaner Technical University*  
-_Aug 2021 - Aug 2025_  
-**Specialization**: Computer Science and Engineering
-
-### **12th Grade in Science and Maths**  
-*Albert Public Sr. Sec. School*  
-_July 2019 - July 2021_  
-Relevant coursework in Science and Mathematics, including IIT/JEE preparation.
+- **Modern Institute of Technology & Research Centre, Rajasthan, India**  
+  *Bachelor in Technology (CSE)* — **8.3 CGPA** (2021 – 2025)
+- **Albert Public Sr. Sec. School, Rajasthan, India**  
+  *Science & Mathematics* — **84.69%** (2019 – 2021)
 
 ---
 
-## 🏆 Certifications & Short Courses
-- **Full-Stack Development** (College)
-- **TechFest Campus Ambassador** (IIT Bombay)
+## 🌐 Connect With Me
+
+- **GitHub**: [Mayank Ghatawal](https://github.com/MayankGhatawal)
+- **LinkedIn**: [Mayank Ghatawal](https://www.linkedin.com/in/mayank-ghatawal/)
 
 ---
 
-## 🌐 Languages
-- **Hindi**: Native
-- **English**: Proficient
+Thank you for visiting! Feel free to clone or fork this repository and connect with me for collaboration opportunities.
