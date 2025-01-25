@@ -1,3 +1,4 @@
+
 # 💼 **Resume - Mayank Ghatawal**
 
 Hello! I'm **Mayank Ghatawal**, a passionate **Full Stack Developer** skilled in building scalable, user-friendly, and high-performance web applications. Explore my skills, experience, and projects below, and feel free to connect with me!
