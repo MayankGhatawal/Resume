@@ -14,63 +14,61 @@ Hello! I'm **Mayank Ghatawal**, a passionate **Full Stack Developer** skilled in
 ## 🛠️ **Technical Skills**
 
 ### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+- JavaScript, TypeScript, Java, SQL, C, C++, HTML, CSS
 
 ### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+- React.js, Next.js, Node.js, Express.js, Chakra UI, TailwindCSS, Shadcn UI, Bootstrap
 
 ### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- MongoDB, PostgreSQL, MySQL
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- Devtools, Postman, Git, GitHub, VS Code, Figma, JIRA
+
+### **Core Concepts**
+- Data Structures and Algorithms, Database Management Systems, OOPS, Operating Systems
 
 ---
 
 ## 💼 **Experience**
 
-### **Software Engineer Intern**  
-**Bluestock Finetech (Remote)**  
-📅 *October 2024 – Present*
+### **Frontend Developer**
+**Rashtech Info (Feb 2025 – Present)**
+📍 Alwar, Rajasthan
 
-- 👨‍🏫 **Team Leadership**: Led the development of a production-level IPO Web App with REST API integration.
-- 🔧 **Feature Development**: Added IPO details (price bands, dates, PDFs) for Bluestock and client platforms.
-- 🛡️ **Technical Expertise**: Built using **Django REST Framework**, **PostgreSQL**, and **Bootstrap 5**, implementing secure coding practices.
+- 🎓 **Online Education Platform**: Developed an interactive e-learning platform using **React.js** and **TailwindCSS** to enhance student engagement.
+- 💌 **Wedding Card Design Tool**: Built a customizable **wedding card design tool** using **React-Konva**, enabling real-time preview and seamless customization.
+- 🎨 **Responsive UI/UX**: Designed and optimized web interfaces for various screen sizes, improving accessibility and user experience.
+- 🤝 **Client Collaboration**: Worked closely with stakeholders to gather requirements and deliver optimized project-based solutions.
+
+### **Software Engineer Intern**
+**Bluestock Finetech (Nov 2024 – Jan 2025)**
+📍 Pune, Maharashtra
+
+- 👨‍🏫 **Team Leadership**: Led the development of a production-level **IPO Web App** with **REST API** integration, improving financial data accuracy.
+- 🔧 **Feature Development**: Integrated IPO details (price bands, dates, PDFs) for Bluestock and client platforms, streamlining investor access to critical data.
+- 🛡️ **Technical Expertise**: Developed a robust backend using **Express.js** and **PostgreSQL**, ensuring secure and scalable data handling.
+- ⚡ **Performance Optimization**: Optimized database queries and API responses, reducing load times by **40%** and improving overall system efficiency.
 
 ---
 
 ## 📂 **Projects**
 
-### 📚 **The Book World**  
-🚀 **Tech Stack**: React.js, Express.js, MongoDB, TailwindCSS, Shadcn UI  
-🔗 [GitHub Repository](https://github.com/MayankGhatawal/Book-World) | [Live Demo](https://book-world-complete.vercel.app/)
+### 🎬 **CineMatch**
+🚀 **Tech Stack**: React.js, Express.js, JavaScript, TMDB API, Shadcn UI, TailwindCSS  
+🔗 [GitHub Repository](https://github.com/MayankGhatawal/CineMatch) | [Live Demo](https://cine-match-two.vercel.app/)
 
-- 📖 Comprehensive MERN application for browsing, reviewing, and managing books.
-- 🌟 Nested commenting system and role-based access for admins.
-- 🔒 Secured with **JWT Authentication** and password hashing using **Bcrypt**.
+- 🎥 **Movie Recommendation Platform**: Designed and developed **CineMatch**, a movie recommendation platform.
+- 📊 **Content-Based Recommendation System**: Utilized movie genres, actors, and plot keywords to provide personalized movie suggestions.
+- 🏗 **Full-Stack Development**: Integrated frontend and backend technologies for real-time data interaction.
 
----
+### 📸 **SnapGram**
+🚀 **Tech Stack**: Next.js, TypeScript, Firebase, Shadcn UI, Material UI, TailwindCSS  
+🔗 [GitHub Repository](https://github.com/MayankGhatawal/Social-Media-App-Web) | [Live Demo](https://snapgram-hp0098v1.vercel.app/)
 
-### 🌟 **Snapgram**  
-🚀 **Tech Stack**: Next.js, TypeScript, Appwrite, TailwindCSS, Shadcn UI  
-🔗 [GitHub Repository](https://github.com/MayankGhatawal/Social-Media-App-Web) | [Live Demo](https://social-media-app-web.vercel.app/)
-
-- 📷 Social media platform with photo posting, commenting, and liking.
-- 🔔 Real-time notifications and secure authentication using **JWT**.
-- 💻 Responsive Material-UI design for seamless user experience.
+- 📷 **Social Media Platform**: Built **SnapGram**, a feature-rich social media platform enabling users to share images and interact.
+- 🔔 **Real-Time Updates & Authentication**: Integrated **Firebase** for real-time database updates and secure authentication.
+- 💻 **Modern UI/UX**: Developed an intuitive and responsive UI using **Material UI** and **ShadCN**.
 
 ---
 
@@ -85,6 +83,7 @@ Hello! I'm **Mayank Ghatawal**, a passionate **Full Stack Developer** skilled in
 
 ## 🌐 **Connect With Me**
 
+- 📩 **Email**: mayank1ghatawal@gmail.com  
 - 💻 **GitHub**: [Mayank Ghatawal](https://github.com/MayankGhatawal)  
 - 💼 **LinkedIn**: [Mayank Ghatawal](https://www.linkedin.com/in/mayank-ghatawal/)  
 
